@@ -1,4 +1,4 @@
-# Smart Expense Tracker 💰
+# Smart Expense Tracker 
 
 A simple and intuitive web app to manage and track your personal expenses efficiently. Stay on top of your finances with smart categorization, summaries, and quick insights.  
 
